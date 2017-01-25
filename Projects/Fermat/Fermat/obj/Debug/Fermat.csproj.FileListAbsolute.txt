@@ -1,0 +1,9 @@
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\bin\Debug\Fermat.exe.config
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\obj\Debug\Fermat.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\obj\Debug\Fermat.Form1.resources
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\obj\Debug\Fermat.Properties.Resources.resources
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\obj\Debug\Fermat.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\bin\Debug\Fermat.exe
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\bin\Debug\Fermat.pdb
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\obj\Debug\Fermat.exe
+F:\Documents\Visual Studio 2015\Projects\Fermat\Fermat\obj\Debug\Fermat.pdb
