@@ -1,0 +1,9 @@
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/obj/Debug/_2_convex_hull.FormMain.resources
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/obj/Debug/_1_convex_hull.Properties.Resources.resources
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/obj/Debug/01-convex-hull.exe
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/obj/Debug/01-convex-hull.pdb
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/bin/Debug/01-convex-hull.exe.mdb
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/bin/Debug/01-convex-hull.pdb
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/bin/Debug/01-convex-hull.exe
+/Users/Melanie/BYU Studies/CS312/convex hull/convex-hull/obj/Debug/01-convex-hull.exe.mdb

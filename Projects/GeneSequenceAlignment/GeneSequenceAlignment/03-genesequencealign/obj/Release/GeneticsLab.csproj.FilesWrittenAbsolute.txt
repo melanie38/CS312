@@ -1,0 +1,7 @@
+/Users/Melanie/BYU Studies/CS312/Projects/GeneSequenceAlignment/GeneSequenceAlignment/03-genesequencealign/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Melanie/BYU Studies/CS312/Projects/GeneSequenceAlignment/GeneSequenceAlignment/03-genesequencealign/obj/Release/GeneticsLab.MainForm.resources
+/Users/Melanie/BYU Studies/CS312/Projects/GeneSequenceAlignment/GeneSequenceAlignment/03-genesequencealign/obj/Release/GeneticsLab.Properties.Resources.resources
+/Users/Melanie/BYU Studies/CS312/Projects/GeneSequenceAlignment/GeneSequenceAlignment/03-genesequencealign/bin/Release/GeneticsLab.exe.mdb
+/Users/Melanie/BYU Studies/CS312/Projects/GeneSequenceAlignment/GeneSequenceAlignment/03-genesequencealign/bin/Release/GeneticsLab.exe
+/Users/Melanie/BYU Studies/CS312/Projects/GeneSequenceAlignment/GeneSequenceAlignment/03-genesequencealign/obj/Release/GeneticsLab.exe
+/Users/Melanie/BYU Studies/CS312/Projects/GeneSequenceAlignment/GeneSequenceAlignment/03-genesequencealign/obj/Release/GeneticsLab.exe.mdb

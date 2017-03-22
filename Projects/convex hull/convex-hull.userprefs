@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D3DA508B-6196-4CFE-B416-353069AE4AA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.convex-hull PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="convex-hull/ConvexHullSolver.cs">
+    <Files>
+      <File FileName="convex-hull/Program.cs" Line="18" Column="1" />
+      <File FileName="convex-hull/ConvexHullSolver.cs" Line="166" Column="2" />
+      <File FileName="convex-hull/FormMain.cs" Line="200" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

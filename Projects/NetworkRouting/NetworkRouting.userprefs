@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B6E42456-EACB-4EF6-851E-C3594AF0158E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkRouting/Form1.cs">
+    <Files>
+      <File FileName="NetworkRouting/Program.cs" Line="18" Column="1" />
+      <File FileName="NetworkRouting/Form1.cs" Line="219" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NetworkRouting PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

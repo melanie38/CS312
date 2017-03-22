@@ -1,0 +1,7 @@
+/Users/Melanie/BYU Studies/CS312/Projects/NetworkRouting/NetworkRouting/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Melanie/BYU Studies/CS312/Projects/NetworkRouting/NetworkRouting/obj/x86/Debug/NetworkRouting.Form1.resources
+/Users/Melanie/BYU Studies/CS312/Projects/NetworkRouting/NetworkRouting/obj/x86/Debug/NetworkRouting.Properties.Resources.resources
+/Users/Melanie/BYU Studies/CS312/Projects/NetworkRouting/NetworkRouting/bin/Debug/NetworkRouting.exe.mdb
+/Users/Melanie/BYU Studies/CS312/Projects/NetworkRouting/NetworkRouting/bin/Debug/NetworkRouting.exe
+/Users/Melanie/BYU Studies/CS312/Projects/NetworkRouting/NetworkRouting/obj/x86/Debug/NetworkRouting.exe
+/Users/Melanie/BYU Studies/CS312/Projects/NetworkRouting/NetworkRouting/obj/x86/Debug/NetworkRouting.exe.mdb
